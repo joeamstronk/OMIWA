@@ -1,0 +1,6 @@
+{
+  "name": "OmniWhatsApp - Multi-Channel Business Hub",
+  "description": "Enterprise multi-session WhatsApp gateway and team inbox for Super Admins and Call Center agents with real-time messaging, QR code device linking, automated bots, and message templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
